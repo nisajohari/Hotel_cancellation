@@ -1,2 +1,3 @@
 # Hotel_cancellation
-exercise 
+Predict hotel cancellation
+Dataset: hotel_bookings.csv
